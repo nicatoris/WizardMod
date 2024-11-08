@@ -1,4 +1,4 @@
-![WizardMod Picture]( HERE )
+![WizardMod Picture](https://github.com/nicatoris/WizardMod/blob/main/icon.png)
 
 # WizardMod
 
